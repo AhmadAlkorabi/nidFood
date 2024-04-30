@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "2aa",
+      "name": "John Smith",
+      "phone": "09123123",
+      "email": "www.johnsmith.com",
+      "password": "password",
+      "ConfPassword": "password"
+    },
+    {
+      "id": "f3ea",
+      "name": "احمد",
+      "number": "0911111111",
+      "email": "a@gmail.com",
+      "password": "1",
+      "ConfPassword": "1"
+    }
+  ]
+}
